@@ -36,4 +36,7 @@ This repository describes a general astrophotography workflow.
 - Correction
 - Stretching
 
+##### Basic
+##### Advanced
+
 ## Automation
